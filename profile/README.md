@@ -1,12 +1,15 @@
-## Hi there 👋
+##  Arqui Repositories 🧪
 
-<!--
+#### We're a startup with two distinct projects in the works.<br>
 
-**Here are some ideas to get you started:**
+### **Beauty Salon Appointment App** 
+Simplifying the booking process for beauty services, making it easy for both clients and salon owners.<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### **Condominium Collective Buying Platform**
+Our platform connects condominium residents, allowing them to pool their resources and make bulk purchases of household items such as cleaning supplies, groceries, and more.<br>
+By leveraging the collective buying power of the community, we negotiate discounted prices with suppliers, passing on the savings to our users.<br>
+
+### Our main stack 🛠️
+**Angular**<br>
+**PostgreSQL**<br>
+**Golang**<br>
